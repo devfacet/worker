@@ -6,7 +6,7 @@ A Golang library that provides worker pools.
 
 ## Usage
 
-See `*_test.go` files.
+See [examples/pool/main.go](examples/pool/main.go)
 
 ## Test
 
@@ -48,4 +48,4 @@ For the full copyright and license information, please view the LICENSE.txt file
 [release-image]: https://img.shields.io/github/release/devfacet/worker.svg?style=flat-square
 
 [build-url]: https://github.com/devfacet/worker/actions/workflows/test.yaml
-[build-image]: https://github.com/devfacet/worker/actions/workflows/test.yaml/badge.svg
+[build-image]: https://github.com/devfacet/worker/workflows/Test/badge.svg
